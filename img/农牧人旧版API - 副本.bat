@@ -1,1 +1,0 @@
-start "" "C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\bin\idea64.exe" C:\01_cloud\gitlab\nmr_core
